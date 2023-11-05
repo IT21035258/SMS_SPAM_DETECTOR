@@ -28,3 +28,6 @@ The SMS Spam Detection Project is a machine learning-based solution to classify 
 - User-friendly interfaces for end-users to manage spam.
 - Scalability options for handling high volumes of SMS messages.
 - Integration with mobile devices and communication platforms.
+
+
+(DE SILVA S.P.A - IT21035258)
